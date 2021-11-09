@@ -488,6 +488,11 @@ body{
   height: auto;
 }
 
+
+.overlay{
+  padding: 20px;
+}
+
 .mypix {
   position: static;
   top: 25%;
